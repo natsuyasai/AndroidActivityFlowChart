@@ -1,0 +1,2 @@
+# AndroidActivityFlowChart
+アクティビティライフライクル確認用
